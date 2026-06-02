@@ -1,2 +1,31 @@
-# CodingTest_JavaScript
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+# Algorithm JavaScript
+
+JavaScript로 알고리즘 문제를 풀이하고, 코딩 테스트에 필요한 개념을 정리하는 저장소입니다.
+
+## 구성
+
+```text
+.
+├── 프로그래머스/   # 프로그래머스 문제 풀이
+└── study/          # 알고리즘 및 자료구조 학습 정리
+```
+
+## 문제 풀이
+
+문제 풀이 파일은 플랫폼, 난이도, 문제 번호, 문제명 기준으로 정리합니다.
+
+```text
+프로그래머스/{난이도}/{문제번호}.{문제명}/
+├── README.md       # 문제 설명
+└── {문제명}.js     # 풀이 코드
+```
+
+## 학습 정리
+
+- [시간 복잡도](study/00_시간복잡도.md)
+
+## 목표
+
+- JavaScript 문법을 활용한 문제 해결 능력 향상
+- 입력 크기에 맞는 시간 복잡도 판단 연습
+- 자주 사용하는 자료구조와 알고리즘 패턴 정리
